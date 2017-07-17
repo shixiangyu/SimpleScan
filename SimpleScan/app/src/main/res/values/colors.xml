@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="TextColorGrayDark">#191919</color>
+    <color name="TextColorGrayMiddle">#6e6e6e</color>
+    <color name="TextColorGrayLight">#9e9e9e</color>
+    <color name="TextColorBlue">#2599ff</color>
+
+    <!-- 线的颜色 -->
+    <color name="line_thin">#D8D8D8</color>
+
+    <color name="BgPressed">#e5e5e5</color>
+</resources>

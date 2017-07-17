@@ -1,0 +1,9 @@
+<!-- 圆角 白色背景 灰色边框 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <shape>
+            <solid android:color="@color/white"/>
+            <corners android:radius="10dp"/>
+        </shape>
+    </item>
+</selector>
